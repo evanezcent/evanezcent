@@ -1,6 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
-Don't waste your time, let's play together ![VALORANT ID](evanezcent#8053)
+Don't waste your time, let's play together <b>Valorant ID : evanezcent#8053</b>
 
 <!--
 **evanezcent/evanezcent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
