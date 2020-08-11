@@ -2,8 +2,8 @@
 
 Don't waste your time, let's play together **`Valorant ID : evanezcent#8053`**
 
-[![Linkedin](https://img.shields.io/badge/-anvaqta-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratamays/)](https://www.linkedin.com/in/anvaqta/)
-[![Instagram](https://img.shields.io/badge/-@anvaqta-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/pratamays/)](https://instagram.com/anvaqta)
+[![Linkedin](https://img.shields.io/badge/-anvaqta-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratamays/)](https://www.linkedin.com/in/pratamays/)
+[![Instagram](https://img.shields.io/badge/-@anvaqta-purple?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/pratamays/)](https://instagram.com/pratamays)
 [![Instagram](https://img.shields.io/badge/-anvaqta.id-red?style=flat-square&labelColor=gray&logo=internet-explorer&logoColor=white&link=https://evanezcent.github.io/)](http://evanezcent.github.io/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evanezcent.evanezcent)
