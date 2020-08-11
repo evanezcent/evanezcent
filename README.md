@@ -9,4 +9,4 @@ Don't waste your time, let's play together **`Valorant ID : evanezcent#8053`**
 [![Instagram](https://img.shields.io/badge/-evanezcent.github.io-F9A03C?style=flat-square&labelColor=gray&logo=internet-explorer&logoColor=white&link=https://evanezcent.github.io/)](http://evanezcent.github.io/)
 
 ------------
-<p align="center">![visitors](https://visitor-badge.laobi.icu/badge?page_id=evanezcent.evanezcent)</p>
+<p align="center"> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evanezcent.evanezcent) </p>
