@@ -10,3 +10,6 @@ Don't waste your time, let's play together **`Valorant ID : evanezcent#8053`**
 [![Instagram](https://img.shields.io/badge/-evanezcent.github.io-F9A03C?style=flat-square&labelColor=gray&logo=internet-explorer&logoColor=white&link=https://evanezcent.github.io/)](http://evanezcent.github.io/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evanezcent.evanezcent)
+
+![Evanezcent's github stats](https://github-readme-stats.sera5-dev.vercel.app/api?username=evanezcent&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
+<img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=evanezcent&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
