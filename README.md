@@ -1,7 +1,7 @@
 <h2>𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h2> 
 
 Someone that interested to *Software Development* and *Computer Vision*. 
-> Familiar with Tensorflow, Flutter, Node JS, Laravel, Vue JS, Python, and Java.
+> Familiar with Tensorflow, Flutter, Node JS, Laravel, Vue JS, Python, JavaScript, and Java.
 
 **`Valorant ID : evanezcent#8053`**
 
