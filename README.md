@@ -3,9 +3,10 @@
 Someone that interested to `Software Development` and `Computer Vision`. 
 
 ## Tech Stack
-> **Tensorflow**, **Flutter**, **Laravel**, **Node JS**, **Django**, **Python**, **Java**, **PHP**, **Vue JS**, **React JS**, **PostgreSQL**, **MySQL**, **Mongo DB**
+```
+**Tensorflow**, **Flutter**, **Laravel**, **Node JS**, **Django**, **Python**, **Java**, **PHP**, **Vue JS**, **React JS**, **PostgreSQL**, **MySQL**, **Mongo DB**
+```
 
-------------
 ## Find me !
 
 [![Instagram](https://img.shields.io/badge/-@pratamays-E10098?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/pratamays/)](https://instagram.com/pratamays/)
