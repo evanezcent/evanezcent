@@ -4,7 +4,7 @@ Someone that interested to `Software Development` and `Computer Vision`.
 
 ## Tech Stack
 ```
-**Tensorflow**, **Flutter**, **Laravel**, **Node JS**, **Django**, **Python**, **Java**, **PHP**, **Vue JS**, **React JS**, **PostgreSQL**, **MySQL**, **Mongo DB**
+Tensorflow, Flutter, Laravel, Node JS, Django, Python, Java, PHP, Vue JS, React JS, PostgreSQL, MySQL, Mongo DB, Go, Javascript, C++
 ```
 
 ## Find me !
