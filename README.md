@@ -1,6 +1,6 @@
-## Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> you can call me Tama 
+## Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
-> A final year student from **Telkom University** that interested to `Software Development` and `Computer Vision`.
+So, you can call me **Tama**, I am final year Computer Science student from **Telkom University** that interested to `Software Development` and `Computer Vision`. I usually do some stuff using Flutter, Node JS, Laravel, Python, and Tensorflow
 
 [![Instagram](https://img.shields.io/badge/-@pratamays-E10098?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/pratamays/)](https://instagram.com/pratamays/)
 [![Linkedin](https://img.shields.io/badge/-pratamays-blue?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratamays/)](https://www.linkedin.com/in/pratamays/)
