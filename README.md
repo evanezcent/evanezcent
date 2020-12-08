@@ -11,9 +11,7 @@ So, you can call me **Tama**, I am final year Computer Science student from **Te
 <a href="https://github.com/evanezcent/evanezcent">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=evanezcent&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tama's GitHub Stats" />
 </a>
-<a href="https://github.com/evanezcent/evanezcent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanezcent&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evanezcent.evanezcent&bg_color=1d1f21)
 
