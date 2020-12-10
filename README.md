@@ -2,9 +2,9 @@
 
 > Hi all, you call me **Tama**, I am final year Computer Science student from **Telkom University** that interested to **Software Development** and **Computer Vision**. I am previously working as a Fullstack Developer (Internship) using Laravel and VueJS.
 
-⚙️ I usually do some stuff's using `Node JS`, `Laravel`, `Python`, and `Tensorflow`
-🌱 I'm currently learning about `Flutter` and `ReactJS`
-🌐 Open for collaborate on building Flutter and Web projects
+- ⚙️ I usually do some stuff's using `Node JS`, `Laravel`, `Python`, and `Tensorflow`
+- 🌱 I'm currently learning about `Flutter` and `ReactJS`
+- 🌐 Open for collaborate on building Flutter and Web projects
 
 ### Reach Me
 [![Instagram](https://img.shields.io/badge/-@pratamays-E10098?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/pratamays/)](https://instagram.com/pratamays/)
