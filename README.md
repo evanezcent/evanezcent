@@ -1,6 +1,6 @@
 ## Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
-> Hi all, you call me **Tama**, I am final year Computer Science student from **Telkom University** that interested to **Software Development** and **Computer Vision**. I am previously working as a Fullstack Developer (Internship) using Laravel and VueJS.
+> Hi all, you can call me **Tama**, I am final year Computer Science student from **Telkom University** that interested to **Software Development** and **Computer Vision**. I am previously working as a Fullstack Developer (Internship) using Laravel and VueJS.
 
 - ⚙️ I usually do some stuff's using `Node JS`, `Laravel`, `Python`, and `Tensorflow`
 - 🌱 I'm currently learning about `Flutter` and `ReactJS`
