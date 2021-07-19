@@ -1,9 +1,9 @@
 ## Hello <𝚌𝚘𝚍𝚎𝚛𝚜/> ! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 
-> Hi all, you can call me **Tama**, I am final year Computer Science student from **Telkom University** that interested to **Software Development** and **Computer Vision**. I am previously working as a Fullstack Developer (Internship) using Laravel and VueJS.
+> Hi all, you can call me **Tama**, I am an entry level Software Engineer that interested to **Software Development** and **Computer Vision**. I am currently working as a Software Developer that build some stuffs using React JS, Flutter, and Laravel.
 
-- ⚙️ I usually do some stuff's using `Node JS`, `Laravel`, `Python`, and `Tensorflow`
-- 🌱 I'm currently diving about `Flutter`  
+- ⚙️ I usually do some stuff's using `Javascript`, `PHP`, `Dart`, `Python`, and `Tensorflow`
+- 🌱 I'm currently diving in `Flutter` and `React JS` 
 
 ### Reach Me
 [![Instagram](https://img.shields.io/badge/-@pratamays-E10098?style=flat-square&labelColor=gray&logo=instagram&logoColor=white&link=https://instagram.com/pratamays/)](https://instagram.com/pratamays/)
@@ -17,4 +17,3 @@
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=evanezcent.evanezcent&bg_color=1d1f21)
-
